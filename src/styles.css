@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+/* @import "assets/theme_eliteadmin/dist/css/style.css"; */
+@import "assets/theme_eliteadmin/node_modules/morrisjs/morris.css";
+@import "assets/theme_eliteadmin/node_modules/vectormap/jquery-jvectormap-2.0.2.css";
+
+@import "assets/theme_eliteadmin/dist/css/pages/easy-pie-chart.css";
+@import "assets/theme_eliteadmin/dist/css/pages/dashboard2.css";

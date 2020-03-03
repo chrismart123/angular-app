@@ -1,0 +1,11 @@
+.logoTrivine {
+  /* background: url("assets/images/background/login-register.jpg"); */
+  display: inherit;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+}
+
+.login-register {
+  padding: 5% 0;
+}
